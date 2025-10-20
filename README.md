@@ -42,4 +42,6 @@ val_test_transform = A.Compose([
 Among the tested models, ConvNeXt-Tiny achieved the highest classification accuracy of 96.79%, demonstrating strong generalization and discriminative ability between real and AI-generated content.
 
 Grad-CAM visualizations were used to interpret model predictions, revealing which image regions contributed most to the classification decision and providing insights into the learned visual cues distinguishing real from synthetic food imagery.
+<img width="3600" height="600" alt="AI_0b75c6aab5ad_TN_TN_TN_TN_TN" src="https://github.com/user-attachments/assets/cc692f10-342c-4155-b554-dba47e3e0e6b" />
+<img width="3600" height="600" alt="Real_02cdc409a1f9_TP_TP_TP_TP_TP" src="https://github.com/user-attachments/assets/5ca3dd10-489e-481b-92af-6eb103850388" />
 
