@@ -7,7 +7,7 @@ This is the repository for the FoodSynthetics dataset
 ## Dataset collection
 The real class data was sourced from the [Food101 dataset](https://www.kaggle.com/datasets/dansbecker/food-101), which contains photographs across 101 distinct categories.
 
-Synthetic images were generated using Flux.1 and Midjourney V7, both diffusion-based models capable of producing highly realistic visuals. Because these models rely on text-to-image prompting, careful prompt engineering was essential to maximize realism. Prompts were derived from each Food101 category, with multiple variations per class to enhance visual diversity and improve classifier generalization.
+Synthetic images were generated using [Flux.1](https://www.liblib.art/modelinfo/4682a305d7ef40ea92da5370e5243c44?from=search&versionUuid=eb80645cc47a4a65940a105a7daf5632) and [Midjourney V7](https://www.midjourney.com/), both diffusion-based models capable of producing highly realistic visuals. Because these models rely on text-to-image prompting, careful prompt engineering was essential to maximize realism. Prompts were derived from each Food101 category, with multiple variations per class to enhance visual diversity and improve classifier generalization. 
 
 The final dataset comprises approximately 32,000 images, evenly balanced between real and synthetic classes.
 
