@@ -12,7 +12,7 @@ Synthetic images were generated using [Flux.1](https://www.liblib.art/modelinfo/
 The final dataset comprises approximately 32,000 images, evenly balanced between real and synthetic classes.
 
 ### Dataset Access
-The Dataset is available for download via [Google Drive](). The dataset consists of 32,830 balanced samples of real and synthetic food images. The link also provide a split that was used to train various models on the paper.
+The Dataset is available for download via [Google Drive](https://drive.google.com/file/d/17IrR5QdqbUaS63hjsSdpzJyn-F8RUpjY/view?usp=drive_link). The dataset consists of 32,830 balanced samples of real and synthetic food images. The link also provide a split that was used to train various models on the paper.
 
 ## Classification and CAM
 Several convolutional neural network (CNN) architectures were trained to distinguish between real and synthetic food images. The models evaluated include ResNet (18 and 50), EfficientNet (B2, B3), and ConvNeXt-Tiny, representing a range of modern CNN backbones with varying depth and computational complexity.
