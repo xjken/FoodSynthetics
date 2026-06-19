@@ -1,0 +1,34 @@
+THIRD-PARTY NOTICES
+
+FoodSynthetics: A Dataset and Benchmark for Detecting AI-Generated Food Imagery
+
+This file lists third-party datasets, images, or source materials that may be included in or referenced by FoodSynthetics.
+
+1. Food-101
+
+Source used:
+https://www.kaggle.com/datasets/dansbecker/food-101
+
+Original dataset page:
+https://www.vision.ee.ethz.ch/datasets_extra/food-101/
+
+Original paper:
+Lukas Bossard, Matthieu Guillaumin, and Luc Van Gool, "Food-101 -- Mining Discriminative Components with Random Forests," European Conference on Computer Vision, 2014.
+
+Used for:
+Real food images / real food image samples used in the FoodSynthetics dataset and benchmark.
+
+Notice:
+Food-101 images and related materials remain subject to the licenses, terms, and usage conditions of their original sources and rights holders. The FoodSynthetics license does not transfer ownership of Food-101 images and does not grant additional rights beyond those allowed by the original Food-101 source, Kaggle page, or rights holders.
+
+Users of FoodSynthetics are responsible for checking and complying with the Food-101 source terms and any applicable Kaggle or original dataset usage conditions.
+
+2. Related FoodSynthetics paper
+
+K. Mitchie, H. Shi and K. Junior, "FoodSynthetics: A Dataset and Benchmark for Detecting AI-Generated Food Imagery," 2025 7th International Conference on Frontier Technologies of Information and Computer (ICFTIC), Qingdao, China, 2025, pp. 844-849, doi: 10.1109/ICFTIC68075.2025.11324677.
+
+Paper link:
+https://ieeexplore.ieee.org/document/11324677
+
+General notice:
+The Creative Commons Attribution 4.0 International License (CC BY 4.0) applied in this repository covers the authors' original contributions to FoodSynthetics, unless otherwise stated. Third-party content remains governed by its original source terms.

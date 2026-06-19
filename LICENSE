@@ -1,0 +1,40 @@
+DATASET LICENSE
+
+FoodSynthetics: A Dataset and Benchmark for Detecting AI-Generated Food Imagery
+
+Copyright (c) 2025 Kenu Mitchie, Huibin Shi, and Kevin Junior.
+
+This repository and the authors' original contributions to the FoodSynthetics dataset are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+The CC BY 4.0 license applies to the authors' original contributions, including the dataset organization, annotations, metadata, benchmark design, documentation, and original dataset components, unless otherwise stated.
+
+IMPORTANT THIRD-PARTY CONTENT NOTICE
+
+This dataset may include or reference images from third-party sources, including Food-101. Third-party images and materials remain subject to the licenses, terms, and usage conditions of their original sources. This license does not transfer ownership of third-party content and does not grant additional rights beyond those allowed by the original rights holders or source licenses.
+
+Users are responsible for checking and complying with the original licenses, terms, and usage conditions of any third-party materials included in or referenced by this dataset. See THIRD_PARTY_NOTICES.txt for source information.
+
+You are free to share, copy, redistribute, adapt, remix, transform, and build upon the authors' original contributions for any purpose, provided that appropriate credit is given, a link to the license is provided, and changes are indicated where applicable.
+
+When using this dataset, please cite the following paper:
+
+K. Mitchie, H. Shi and K. Junior, "FoodSynthetics: A Dataset and Benchmark for Detecting AI-Generated Food Imagery," 2025 7th International Conference on Frontier Technologies of Information and Computer (ICFTIC), Qingdao, China, 2025, pp. 844-849, doi: 10.1109/ICFTIC68075.2025.11324677.
+
+Paper link:
+https://ieeexplore.ieee.org/document/11324677
+
+Repository:
+https://github.com/xjken/FoodSynthetics
+
+Dataset files are distributed through the download link provided in the GitHub repository.
+
+Attribution should include:
+1. The dataset name: FoodSynthetics
+2. The authors: Kenu Mitchie, Huibin Shi, and Kevin Junior
+3. A citation to the related paper
+4. A link to the GitHub repository or dataset page, where applicable
+5. An indication if any changes were made
+
+No warranties are provided. The dataset and repository materials are provided "as is," without warranty of any kind, express or implied. The authors are not liable for any claims, damages, or other liability arising from the use of this dataset.
+
+SPDX-License-Identifier: CC-BY-4.0

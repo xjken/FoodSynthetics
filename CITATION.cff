@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use FoodSynthetics, please cite the related paper."
+title: "FoodSynthetics: A Dataset and Benchmark for Detecting AI-Generated Food Imagery"
+authors:
+  - family-names: "Mitchie"
+    given-names: "Kenu"
+  - family-names: "Shi"
+    given-names: "Huibin"
+  - family-names: "Junior"
+    given-names: "Kevin"
+year: 2025
+doi: "10.1109/ICFTIC68075.2025.11324677"
+url: "https://ieeexplore.ieee.org/document/11324677"
+repository-code: "https://github.com/xjken/FoodSynthetics"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: conference-paper
+  title: "FoodSynthetics: A Dataset and Benchmark for Detecting AI-Generated Food Imagery"
+  authors:
+    - family-names: "Mitchie"
+      given-names: "Kenu"
+    - family-names: "Shi"
+      given-names: "Huibin"
+    - family-names: "Junior"
+      given-names: "Kevin"
+  conference: "2025 7th International Conference on Frontier Technologies of Information and Computer (ICFTIC)"
+  collection-title: "2025 7th International Conference on Frontier Technologies of Information and Computer (ICFTIC)"
+  year: 2025
+  publisher: "IEEE"
+  doi: "10.1109/ICFTIC68075.2025.11324677"
+  start: 844
+  end: 849
